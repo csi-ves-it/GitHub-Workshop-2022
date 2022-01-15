@@ -1,5 +1,4 @@
-[
-    {
+[{
         "Name": "Mukul Kolpe",
         "user_id": "MukulKolpe"
     },
@@ -22,5 +21,9 @@
     {
         "Name": "Prathamesh Thakur",
         "user_id": "Prathamesh-Thakur"
+    },
+    {
+        "Name": "Devesh Rahatekar",
+        "user_id": "devesh-2002"
     }
 ]
